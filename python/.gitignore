@@ -1,0 +1,11 @@
+# Compiled binaries
+feed_engine
+*.out
+*.exe
+
+# Python cache / virtual env noise
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
